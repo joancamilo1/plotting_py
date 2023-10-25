@@ -1,5 +1,5 @@
-# plotting_py
-plotting in seaborn and plotly
+# plotting in seaborn and plotly
+Seaborn and plotly graphics are prioritized, since the knime graphics engine is more suitable for these libraries
 
 I am in the initial phase of the project where I have to brainstorm what is the best way to generate understandable graphics for the end user, therefore the code is not very refined. The objective is to adequately graph an engineering and data science process where the efficiency of different hospitals is studied based on the patients treated, and their associated costs.
 
